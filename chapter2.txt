@@ -1,1 +1,1 @@
-Chapter 2. The continuing saga. Is taking longer than we thought! This it that inane comment that I just deleted.
+Git gChapter 2. The continuing saga. Is taking longer than we thought! This it that inane comment that I just deleted. I want to see if this is deleted when I check out the file.
